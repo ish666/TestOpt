@@ -1,0 +1,4 @@
+pandas>=1.5
+scikit-learn>=1.2
+radon>=6.0
+gitpython>=3.1
